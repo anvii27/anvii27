@@ -14,7 +14,7 @@
 ### 🚀 Projects  
 - Resume Analyzer (AI-based)  
 - Mental Health Chatbot  
-- Cafe Finder Web App  
+- AI Code Reviewer 
 
 ### 🌱 Currently Learning  
 - Full-Stack Development  
