@@ -205,9 +205,3 @@ real problems** rather than just watch someone else write the code.
 
 Apparently, more than I thought.
 ---
-
-### 💭 Currently wondering
-
-> How many bugs can one feature possibly have?
-
-Apparently, more than I thought.
