@@ -97,7 +97,7 @@ real problems** rather than just watch someone else write the code.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anvi%20Chauhan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anvi-chauhan-8ab1732b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anvi%20Chauhan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anvi-chauhan-8ab1732b/](https://www.linkedin.com/in/anvi-chauhan-8ab1732b2/))
 
 ---
 
